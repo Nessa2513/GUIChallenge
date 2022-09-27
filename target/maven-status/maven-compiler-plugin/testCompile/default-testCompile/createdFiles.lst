@@ -1,0 +1,9 @@
+Pages\MainPage.class
+Pages\Header.class
+Pages\LogInPage.class
+Pages\Footer.class
+Pages\TopRated.class
+Tests\Tests.class
+Pages\BasePage.class
+Tests\Hooks.class
+Pages\SearchPage.class
